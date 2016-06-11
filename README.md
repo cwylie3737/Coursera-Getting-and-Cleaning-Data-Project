@@ -19,6 +19,16 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
+#### Citations:
+
+Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. 
+Irvine, CA: University of California, School of Information and Computer Science.
+Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. 
+A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European 
+Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, 
+ESANN 2013. Bruges, Belgium 24-26 April 2013.
+
+
 #### Required submissions: 
 
 1. A link to a Github repository with an R script for performing the analysis.
@@ -39,7 +49,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 1. The GitHub repo contains a README.md file that explains the project purpose and scope.
 2. The GitHub repo contains a CodeBook.md file that describes all the variables and 
    summaries calculated, along with units, and any other relevant information.
-3. The Github repo contains an R script that produces the tidy_dataset.txt output file.
+3. The Github repo contains an R script that produces the tidy dataset output file.
 4. The work submitted for this project is the work of the student who submitted it.
 5. The submitted data set is tidy.
 
