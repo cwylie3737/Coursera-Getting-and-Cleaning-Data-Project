@@ -11,7 +11,7 @@ Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advan
 algorithms to attract new users. The data used in this project represent data collected 
 from the accelerometers from the Samsung Galaxy S smartphone. 
 
-#### A full description is available at the site where the data was obtained:
+#### A full description of the original research is available at this site:
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
