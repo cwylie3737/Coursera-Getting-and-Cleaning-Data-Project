@@ -3,8 +3,9 @@
 The purpose of this project is to demonstrate the ability to collect, work with, 
 and clean a data set.
 
-The goal is to prepare a tidy dataset that can be used for later analysis. The submission 
-will be graded by peers on a series of yes/no questions related to the project. 
+The goal is to prepare a tidy dataset that can be used for later analysis by creating an
+R script to compile the provided data files. The submission will be graded by peers 
+on a series of yes/no questions related to the project. 
 
 One of the most exciting areas in all of data science right now is wearable computing. 
 Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced 
