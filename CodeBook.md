@@ -125,4 +125,4 @@ The 'subject_train.txt' and 'subject_test.txt' files contain the subject ID numb
 The R script 'run_analysis.R' merges the training and test data sets to create one data set, 
 extracts only the mean and standard deviation values for each measurement, gives descriptive 
 activity names to name the activities in the data set, and creates a summarized tidy data set 
-with the average of each measurement variable.
+with the average of each measurement variable for each subject and activity.
