@@ -9,7 +9,9 @@ will be graded by peers on a series of yes/no questions related to the project.
 One of the most exciting areas in all of data science right now is wearable computing. 
 Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced 
 algorithms to attract new users. The data used in this project represent data collected 
-from the accelerometers from the Samsung Galaxy S smartphone. 
+from the accelerometers from the Samsung Galaxy S smartphone worn by 30 volunteer subjects 
+while engaged in lying down, sitting, standing, walking, walking downstairs, and walking 
+upstairs. 
 
 #### A full description of the original research is available at this site:
 
